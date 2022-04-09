@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = harold.benard@gmail.com
+	name = Harold Benard
